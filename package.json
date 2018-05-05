@@ -1,0 +1,27 @@
+{
+  "name": "serversiderenderingreact",
+  "version": "1.0.0",
+  "description": "sample project for ssr",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilManjeray/Serversiderenderingreact.git"
+  },
+  "author": "Sunil manjeray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilManjeray/Serversiderenderingreact/issues"
+  },
+  "homepage": "https://github.com/sunilManjeray/Serversiderenderingreact#readme",
+  "dependencies": {
+    "@zeit/next-css": "^0.1.5",
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
